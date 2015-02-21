@@ -1,0 +1,34 @@
+{
+    "appKeys": {
+        "message": 1,
+        "status": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Smirnov Labs",
+    "longName": "Daily Quote",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/icon-tiny2.png",
+                "menuIcon": true,
+                "name": "ICON_24",
+                "type": "png"
+            },
+            {
+                "file": "images/icon-tiny.png",
+                "name": "ICON_28",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "Daily Quote",
+    "uuid": "6ac6ea0c-3a58-40fb-9d98-7a09e6719144",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
